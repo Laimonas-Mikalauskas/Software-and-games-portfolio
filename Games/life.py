@@ -4,8 +4,8 @@ from typing import List
 
 
 class Settings:
-    WINDOW_WIDTH = 800
-    WINDOW_HEIGHT = 600
+    WINDOW_WIDTH = 25600
+    WINDOW_HEIGHT = 1600
     CELL_SIZE = 8
     FPS = 12
 
