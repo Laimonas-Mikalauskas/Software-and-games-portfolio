@@ -14,7 +14,7 @@ while running:
             running = False
 
 # ---- Configuration ----
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 2650, 1600
 FPS = 60
 
 PLAYER_SPEED = 5
