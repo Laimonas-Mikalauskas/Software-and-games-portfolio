@@ -11,7 +11,7 @@ The challenge was to efficiently simulate evolving grid states while applying
 Conway's rules for each cell. Key problems solved, include: 
 
 - Efficiently checking neighbors without unnecessary computation.
-- Updating the grig while avoiding state conflicts.
+- Updating the grid while avoiding state conflicts.
 - Visualizing changes in real time
 
 Solution
