@@ -29,7 +29,7 @@ Technologies
 
 Learning outcomes
 
-- Applied algorithmic thinking to simulate cellulat automata
+- Applied algorithmic thinking to simulate cellular automata
 - Practiced OOP design for modular and maintainable code
 - Learned to optimize grid-based computations for performance
 - Gained experience in real-time visualization with PyGame
