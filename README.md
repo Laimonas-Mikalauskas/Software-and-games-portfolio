@@ -7,8 +7,8 @@ This project implements the simulation with real-time visualisation, emphasizing
 
 Problem 
 
-The challenge was to efficiently simulate evolving grid stateswhile applying 
-Conway's rules for each cell. Keyproblems solved, include: 
+The challenge was to efficiently simulate evolving grid states while applying 
+Conway's rules for each cell. Key problems solved, include: 
 
 - Efficiently checking neighbors without unnecessary computation.
 - Updating the grig while avoiding state conflicts.
