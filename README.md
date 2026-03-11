@@ -2,7 +2,7 @@ Game Of Life
 
 Overview
 
-Conway's Game Of Life ia celllar automaton zero-player simulation where cells live, die and reproduce based on neighboring cells.
+Conway's Game Of Life ia cellular automaton zero-player simulation where cells live, die and reproduce based on neighboring cells.
 This project implements the simulation with real-time visualisation, emphasizing algorithmic thinking, grid-baswdstate management and object-oriented programming principles.
 
 Problem 
